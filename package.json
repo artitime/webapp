@@ -1,8 +1,7 @@
 {
   "name": "Customer Dashboard",
   "description": "Most powerful customer dashboard",
-  "license": "MIT",
-  "version": "1.0.0", 
+  "version": "1.0.0",
   "private": true,
   "homepage": "",
   "scripts": {
