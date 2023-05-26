@@ -2,36 +2,9 @@
   "name": "Customer Dashboard",
   "description": "Most powerful customer dashboard",
   "license": "MIT",
-  "version": "1.0.0",
-  "author": {
-    "name": "Vartika",
-    "url": "https://vartikatiwari.com/"
-  },
- 
+  "version": "1.0.0", 
   "private": true,
-  "repository": {
-    "type": "git",
-    "url": "https://vartikatiwari.com"
-  },
-  "homepage": "https://vartikatiwari.com",
-  "keywords": [ 
-    "react",
-    "javascript",
-    "admin",
-    "dashboard",
-    "material-design",
-    "nextjs",
-    "material-ui",
-    "admin-dashboard",
-    "free",
-    "mui",
-    "admin-template",
-    "admin-panel",
-    "freebies",
-    "nextjs-template",
-    "react-dashboard",
-    "themeselection"
-  ],
+  "homepage": "",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
